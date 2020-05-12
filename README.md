@@ -1,0 +1,2 @@
+# NPTEL-DATA-ANAYLTICS
+It consists codes of all weeks of the course on NPTEL DATA ANALYTICS WITH PYTHON BY A.RAMESH ANBANANDAM
